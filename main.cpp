@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#include "lib/about.h"
 #define int long long
 using namespace std;
 
@@ -7,5 +8,6 @@ int32_t main() {
     cin.tie(NULL);
     cout <<"Hello git & github" <<'\n';
     cout <<"Hello from dev branch" <<'\n';
+    cout << about() << '\n';
     return 0;
 }
