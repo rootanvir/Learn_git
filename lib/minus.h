@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
  
-double minus(int x,int y){
-    return x - y;
+double minus(int a,int b){
+    return a - b;
 }
