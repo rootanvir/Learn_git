@@ -288,4 +288,3 @@
 
 ---
 
-*⚠️ = Destructive operation — data may be unrecoverable without reflog*
